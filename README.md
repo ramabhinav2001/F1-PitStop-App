@@ -1,2 +1,2 @@
 # F1-PitStop-App
-![image](https://github.com/user-attachments/assets/f4873c84-25a6-495d-bffe-69d2c0ced29a)
+![Screenshot 2025-04-19 211113](https://github.com/user-attachments/assets/10bbd406-05fc-4d1a-834b-7754872bb68b)
